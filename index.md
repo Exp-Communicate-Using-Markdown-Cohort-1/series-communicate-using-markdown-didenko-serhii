@@ -4,3 +4,7 @@
 ```python
 print('hello, md!')
 ```
+
+- [x] learn git
+- [x] learn github
+- [ ] learn MD
